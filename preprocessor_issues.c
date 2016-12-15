@@ -94,7 +94,8 @@
 //misc
 #define lsearch bsearch
 #define bsearch qsort
-
+#define .h .c
+#define // ;
 
 
 
